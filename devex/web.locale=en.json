@@ -1,0 +1,11 @@
+{
+	"$koplenov_devex_Commander_title": "Command",
+	"$koplenov_devex_Greeter_title": "Greeting",
+	"$koplenov_devex_Quester_title": "Question",
+	"$koplenov_devex_command_message": "Let us do it right!*",
+	"$koplenov_devex_greet_message": "Hello, world!",
+	"$koplenov_devex_greet_message2": "Hello, how world are you!",
+	"$koplenov_devex_quest_message": "How are you?",
+	"$mol_date_next_hint": "Next month",
+	"$mol_date_prev_hint": "Previous month"
+}
